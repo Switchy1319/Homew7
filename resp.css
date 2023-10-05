@@ -1,0 +1,62 @@
+@media(width > 1440px) {
+    .blue{
+        height: 512px;
+        border-radius: 32px 32px 32px 32px;
+        margin-top: 284px;
+        background-position: top 104px right 84px;
+        background-size: 200px;
+    }
+    .main{
+        display: flex;
+            background-color: #ECF2FF;
+
+    }
+
+    .qveda{
+        margin-top: 284px;
+        background-color: #fff;
+        width: 400px;
+        height: 512px;
+        border-radius: 32px;
+
+    }
+
+    .yrs{
+        margin-top: 38px;
+    }
+
+    .s6{
+        margin-top: 90px;
+    }
+
+    .great{
+        margin-top: 74px;
+    }
+
+    .info{
+        font-size: 18px;
+    }
+    body{
+        background-color: #ECF2FF;
+    }
+
+    .sum{
+        font-size: 24px;
+        margin-top: 38px;
+        margin-bottom: 28px;
+    }
+
+    .qv{
+        margin-left: 40px;
+    }
+    .but{
+        margin-left: 40px;
+        margin-top: 41px;
+        background-color: #2F2CE9 ;
+    }
+    .cont{
+        color: #fff;
+        text-align: center;
+    }
+
+}
